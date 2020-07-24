@@ -1,5 +1,5 @@
-echo demo16.sh-----------------
 #!/bin/bash
+echo demo16.sh-----------------
 
 a=4
 b=5

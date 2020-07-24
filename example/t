@@ -1,32 +1,243 @@
-demo2.sh-----------------
-hello
-there
-File demo2 not found.
-File test complete.
-“å‡ºæ•°å­demo3.sh-----------------
+demo13.sh-----------------
 
-Hit a key, then hit return.
-Punctuation, whitespace, or other
-demo3.sh-----------------
 
-Hit a key, then hit return.
-Punctuation, whitespace, or other
-sh
-demo25.sh
-demo26.sh
-demo27.sh
-demo28.sh
-demo29.sh
-demo3.sh
-demo30.sh
-demo31.sh
-demo32.sh
-demo33.sh
-demo34.sh
-demo3_0.sh
-demo4.sh
-demo5.sh
-demo6.sh
-demo7.sh
-demo8.sh
-demo9.sh
+\v\v\v\v
+=============
+VERTICAL TABS
+
+==============
+QUOTATION MARK
+"
+==============
+
+NEWLINE AND BEEP
+
+
+
+===============
+QUOTATION MARKS
+	 " 	
+	 " 	
+===============
+
+" This is a quoted string, " and this lies outside the quotes.
+
+___ UNDERLINE ___
+
+ABC
+
+
+"escape" echoes as 
+
+
+demo24.sh-----------------
+
+10 random numbers:
+-----------------
+- 20991
+- 30746
+- 32125
+- 16238
+- 21892
+- 22579
+- 1100
+- 13318
+- 32708
+- 21620
+-----------------
+
+Random number less than 500  ---  414
+
+FALSE
+
+Throw of the dice = 5
+4 , 1
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595622878.
+temp.1595622878
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595622924.
+temp.1595622924
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595622924.
+temp.1595622924
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595622926.
+temp.1595622926
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595622926.
+temp.1595622926
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595622927.
+temp.1595622927
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595622928.
+temp.1595622928
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623063.
+temp.1595623063
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623064.
+temp.1595623064
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623065.
+temp.1595623065
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623065.
+temp.1595623065
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623066.
+temp.1595623066
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623067.
+temp.1595623067
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623067.
+temp.1595623067
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623068.
+temp.1595623068
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623068.
+temp.1595623068
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623069.
+temp.1595623069
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623069.
+temp.1595623069
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623069.
+temp.1595623069
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623070.
+temp.1595623070
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623070.
+temp.1595623070
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623071.
+temp.1595623071
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623072.
+temp.1595623072
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623073.
+temp.1595623073
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623074.
+temp.1595623074
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623075.
+temp.1595623075
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 207.
+The number of seconds elapsed since 01/01/1970 is 1595623076.
+temp.1595623076

@@ -1,9 +1,9 @@
-echo demo24.sh-----------------
 #!/bin/bash
 #
 # 每次调用$RANDOM都会返回不同的随机整数.
 # 范围为: 0 - 32767 (带符号的16位整数).
 
+echo demo24.sh-----------------
 MAXCOUNT=10
 count=1
 

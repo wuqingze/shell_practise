@@ -1,5 +1,5 @@
-echo demo12.sh-----------------
 #!/bin/bash
+echo demo12.sh-----------------
 
 # Variables: 赋值和替换
 

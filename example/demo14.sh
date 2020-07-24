@@ -1,5 +1,5 @@
-echo demo14.sh-----------------
 #!/bin/bash
+echo demo14.sh-----------------
 
 echo hello
 echo $?    # 因为上一条命令执行成功，打印0.

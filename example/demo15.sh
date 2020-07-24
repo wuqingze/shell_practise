@@ -1,6 +1,6 @@
-echo demo15.sh-----------------
 #!/bin/sh
-file="demo15"
+echo demo15.sh-----------------
+file="demo15.sh"
 if [ -r $file ]
 then
    echo "文件可读"

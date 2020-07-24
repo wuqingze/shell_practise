@@ -1,7 +1,7 @@
-echo demo13.sh-----------------
 #!/bin/bash
 # escaped.sh: 转义字符
 
+echo demo13.sh-----------------
 echo; echo
 
 echo "\v\v\v\v"      # 打印出 \v\v\v\v literally.

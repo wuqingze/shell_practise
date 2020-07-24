@@ -1,10 +1,11 @@
-echo demo11.sh-----------------
 #!/bin/bash
+echo demo11.sh-----------------
 
 a=24
 b=47
 
-if [ "$a" -eq 24 ] && [ "$b" -eq 47 ]
+#if [ "$a" -eq 24 ] && [ "$b" -eq 47 ]
+if [ $a == 24 ] && [ $b == 47 ]
 then
   echo "Test #1 succeeds."
 else

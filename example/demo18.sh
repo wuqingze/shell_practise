@@ -12,6 +12,7 @@ echo ${stringZ:7:3}                          # 23A
 
 
 
+
 # 有没有可能从字符串的右边结尾处提取?
     
 echo ${stringZ:-4}                           # abcABC123ABCabc
