@@ -1,5 +1,5 @@
-echo demo29.sh-----------------
 #!/bin/bash
+echo demo29.sh-----------------4
 LIMIT=19  # 上限
 
 echo
@@ -9,12 +9,18 @@ a=0
 
 while [ $a -le "$LIMIT" ]
 do
- a=$(($a+1))
+ #a=$(($a+1))
+ #a=$(($a+1))
+ #(( a=$a+1 ))
+ #(( a+=1 ))
+ #let a=$a+1
+ let a+=1
 
- if [ "$a" -eq 3 ] || [ "$a" -eq 11 ]  # Excludes 3 and 11.
+ if [ $a -eq 3 ] || [ $a -eq 11 ]  # Excludes 3 and 11.
  then
    continue      # 跳过本次循环剩下的语句.
  fi
 
  echo -n "$a "   # 在$a等于3和11的时候,这句将不会执行.
 done 
+echo

@@ -1,7 +1,7 @@
-echo demo33.sh-----------------
 #!/bin/bash
+echo demo33.sh-----------------
 
-JUST_A_SECOND=1
+JUST_A_SECOND=3
 
 funky ()
 { # 这是一个最简单的函数.
@@ -25,6 +25,7 @@ fun ()
     echo "----------FUNCTIONS---------->"
     echo "<------------ARE-------------"
     echo "<------------FUN------------>"
+    echo "<------------$i------------>"
     echo
     let "i+=1"
   done

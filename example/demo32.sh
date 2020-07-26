@@ -1,5 +1,5 @@
-echo demo32.sh-----------------
 #!/bin/bash
+echo demo32.sh-----------------
 
 PS3='选择你喜欢的蔬菜:  '
 echo

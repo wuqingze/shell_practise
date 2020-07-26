@@ -241,3 +241,1383 @@ demo25.sh-----------------
 The number of days since the year's beginning is 207.
 The number of seconds elapsed since 01/01/1970 is 1595623076.
 temp.1595623076
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696576.
+temp.1595696576
+demo25.sh-----------------
+1: 6
+2: 3
+3: 6
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696576.
+temp.1595696576
+demo25.sh-----------------
+1: 15
+2: 12
+3: 21
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696597.
+temp.1595696597
+demo25.sh-----------------
+1: 30
+2: 21
+3: 9
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696597.
+temp.1595696597
+demo25.sh-----------------
+1: 23
+2: 24
+3: 12
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696599.
+temp.1595696600
+demo25.sh-----------------
+1: 30
+2: 9
+3: 6
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696600.
+temp.1595696600
+demo25.sh-----------------
+1: 19
+2: 27
+3: 9
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696601.
+temp.1595696601
+demo25.sh-----------------
+1: 23
+2: 6
+3: 6
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696601.
+temp.1595696601
+demo25.sh-----------------
+1: 14
+2: 30
+3: 30
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696602.
+temp.1595696602
+demo25.sh-----------------
+1: 18
+2: 21
+3: 21
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696602.
+temp.1595696602
+demo25.sh-----------------
+1: 6
+2: 24
+3: 30
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696603.
+temp.1595696603
+demo25.sh-----------------
+1: 6
+2: 24
+3: 24
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696604.
+temp.1595696604
+demo25.sh-----------------
+1: 19
+2: 21
+3: 6
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696604.
+temp.1595696604
+demo25.sh-----------------
+1: 6
+2: 21
+3: 21
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696605.
+temp.1595696605
+demo25.sh-----------------
+1: 27
+2: 21
+3: 30
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696605.
+temp.1595696605
+demo25.sh-----------------
+1: 15
+2: 12
+3: 12
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696606.
+temp.1595696606
+demo25.sh-----------------
+1: 10
+2: 12
+3: 15
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696607.
+temp.1595696607
+demo25.sh-----------------
+1: 9
+2: 12
+3: 15
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696607.
+temp.1595696607
+demo25.sh-----------------
+1: 15
+2: 15
+3: 27
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696608.
+temp.1595696608
+demo25.sh-----------------
+1: 12
+2: 21
+3: 30
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696609.
+temp.1595696609
+demo25.sh-----------------
+1: 12
+2: 24
+3: 15
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696610.
+temp.1595696610
+demo25.sh-----------------
+1: 16
+2: 18
+3: 15
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696610.
+temp.1595696610
+demo25.sh-----------------
+1: 25
+2: 3
+3: 6
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696610.
+temp.1595696610
+demo25.sh-----------------
+1: 8
+2: 30
+3: 21
+The number of days since the year's beginning is 208.
+The number of seconds elapsed since 01/01/1970 is 1595696612.
+temp.1595696612
+demo26.sh-----------------
+
+a (initial value) = 23
+a (after a++) = 24
+a (after a--) = 23
+a (after ++a) = 24
+a (after --a) = 23
+False
+True
+
+If a < 45, then t = 7, else t = 11.
+t = 7 
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
+
+Mercury Venus Earth Mars Jupiter Saturn Uranus Neptune Pluto
+Mercury     36,000,000 miles from the sun
+Venus     67,000,000 miles from the sun
+Earth     93,000,000 miles from the sun
+Mars     142,000,000 miles from the sun
+Jupiter     483,000,000 miles from the sun
+
+===================
+Jupiter ====483 ====
+
+9 7 3 8 37.53 
+
+
+USER #1 = root
+USER #2 = daemon
+USER #3 = bin
+USER #4 = sys
+USER #5 = sync
+USER #6 = games
+USER #7 = man
+USER #8 = lp
+USER #9 = mail
+USER #10 = news
+USER #11 = uucp
+USER #12 = proxy
+USER #13 = www-data
+USER #14 = backup
+USER #15 = list
+USER #16 = irc
+USER #17 = gnats
+USER #18 = nobody
+USER #19 = systemd-network
+USER #20 = systemd-resolve
+USER #21 = syslog
+USER #22 = messagebus
+USER #23 = _apt
+USER #24 = lxd
+USER #25 = uuidd
+USER #26 = dnsmasq
+USER #27 = landscape
+USER #28 = sshd
+USER #29 = pollinate
+USER #30 = nong
+USER #31 = mysql
+USER #32 = redis
+
+
+Copyright %s %d Free Software Foundation, Inc.
+# Free Software Foundation; either version 2 of the License, or (at your
+# Free Software Foundation; either version 2 of the License, or (at your
+# Free Software Foundation; either version 2 of the License, or (at your
+Copyright %s %d Free Software Foundation, Inc.
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+# Copyright (C) 1996-2004 Free Software Foundation, Inc.
+#   the Free Software Foundation, either version 3 of the License, or
+Copyright 1991-1994, 1997, 1998, 2000, 2004, 2006, 2008, 2012-2017 Free Software Foundation, Inc.
+    the Free Software Foundation; either version 3 of the License , or
+       The Free Software Foundation, Inc.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+#    the Free Software Foundation, version 3 of the License.
+# the Free Software Foundation, version 3 of the License.
+# the Free Software Foundation, version 3 of the License.
+# Copyright (C) 1998-2018 Free Software Foundation, Inc.
+# License as published by the Free Software Foundation; either
+      echo 'Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+#     the Free Software Foundation; either version 2 of the License, or
+#     along with this program, write to the Free Software Foundation, Inc.,
+Copyright %s %d Free Software Foundation, Inc.
+# the Free Software Foundation, either version 3 of the License, or
+Copyright %s %d Free Software Foundation, Inc.
+#    the Free Software Foundation, either version 3 of the License.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+as published by the Free Software Foundation; either version 2
+#    the Free Software Foundation, version 3 of the License.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+# Copyright (C) 1996-2017 Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or (at
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+Copyright %s %d Free Software Foundation, Inc.
+#    the Free Software Foundation; either version 2 of the License, or
+Copyright %s %d Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright (C) 1989, 1991-%d Free Software Foundation.
+the Free Software Foundation; either version 3 of the License, or
+#   Copyright (C) 2003-2018 Free Software Foundation, Inc.
+# the Free Software Foundation; either version 3 of the License, or
+<!-- Copyright (C) 2007-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2010-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2008-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2008-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2011-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2013-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2007-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2007-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2013-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2013-2018 Free Software Foundation, Inc.
+ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+software for all its users.  We, the Free Software Foundation, use the
+  The Free Software Foundation may publish revised and/or new versions of
+by the Free Software Foundation.
+Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2010-2018 Free Software Foundation, Inc.
+# the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2016-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2013-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2012-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2014-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2010-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2010-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2016-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2010-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2010-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2016-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2013-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2014-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2010-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2010-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2010-2018 Free Software Foundation, Inc.
+<!-- Copyright (C) 2010-2018 Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+# Copyright (C) 2003, 2005-2007, 2011, 2015-2016 Free Software Foundation, Inc.
+# the Free Software Foundation; either version 2.1 of the License, or
+        echo "Copyright (C) 2003-2007 Free Software Foundation, Inc.
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# the Free Software Foundation; either version 3 of the License, or
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+Copyright (C) 2014 Free Software Foundation, Inc.
+# Copyright (C) 1993-2014  Free Software Foundation, Inc.
+# the Free Software Foundation, either version 2 of the License, or
+Copyright %s %d Free Software Foundation, Inc.
+#    the Free Software Foundation, version 3 of the License.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+# the Free Software Foundation; either version 2.1 of the License, or
+# Copyright (C) 1996-2018 Free Software Foundation, Inc.
+# License as published by the Free Software Foundation; either
+    printf $"Copyright (C) %s Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+r; es cha unter dr Bedingige vo dr GNU General Public License - wie von der Free Software Foundation ver
+ttning (C) 2000-2001 Free Software Foundation och Martin Norb
+r fri programvara. Du kan distribuera det och/eller modifiera det under villkoren i GNU General Public License, publicerad av Free Software Foundation, antingen version 2 eller (om du s
+rminos de la GNU General Public License como ha sido publicada por la Free Software Foundation; tambi
+ciou Free Software Foundation; a to bu
+blica Geral GNU, como publicada pela Free Software Foundation; ou pela vers
+ na warunkach GPL GNU, wydanej przez Free Software Foundation - wed
+Dette programmet er fri software. Du kan distribuere og endre det i henhold til GNU General Public License, publisert av Free Software Foundation, versjon 2 eller senere.
+ Fondo (Free Software Foundation); pagal 2 Licenzijos versij
+Questo programma e' free software; lo puoi ridistribuire e/o modificare nei termini della GNU General Public License come pubblicato dalla Free Software Foundation; sia la versione 2 della Licenza, o (a tua scelta) ogni altra versione successiva
+lum GNU General Public License leyfisins eftir Free Software Foundation; anna
+Dieses Programm ist freie Software; es kann unter den Bedingungen der GNU General Public License - wie von der Free Software Foundation ver
+blica GNU publicada pola Free Software Foundation; tanto a versi
+e par la Free Software Foundation, soit selon la version 2 de la GPL, soit (
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+rgides dokumenti GNU General Public License, mille on avaldanud Free Software Foundation; kas versiooni 2 Litsensist, v
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+Dit programma is vrije software; je mag het herdistributeren en/of wijzigen als onder de GNU General Public License, zoals gepubliceerd door the Free Software Foundation; als versie 2 van de licentie, of (naar jouw keuze) elke latere versie.
+ndre det i henhold til GNU General Public License, publiceret af Free Software Foundation, enten version 2 eller (hvis du 
+ Free Software Foundation; a to verze 2 a v
+tivanje pravila GNU General Public Licence koju izdaje  Free Software Foundation; ina
+s lliure; podeu redistribuir-lo i modificar-lo d'acord amb la GNU General Public License tal com l'ha publicada la Free Software Foundation; saia la versi
+blica Geral GNU, como publicada pela Free Software Foundation; ou pela vers
+r; es cha unter dr Bedingige vo dr GNU General Public License - wie von der Free Software Foundation ver
+ttning (C) 2000-2001 Free Software Foundation och Martin Norb
+r fri programvara. Du kan distribuera det och/eller modifiera det under villkoren i GNU General Public License, publicerad av Free Software Foundation, antingen version 2 eller (om du s
+rminos de la GNU General Public License como ha sido publicada por la Free Software Foundation; tambi
+ciou Free Software Foundation; a to bu
+blica Geral GNU, como publicada pela Free Software Foundation; ou pela vers
+ na warunkach GPL GNU, wydanej przez Free Software Foundation - wed
+Dette programmet er fri software. Du kan distribuere og endre det i henhold til GNU General Public License, publisert av Free Software Foundation, versjon 2 eller senere.
+ Fondo (Free Software Foundation); pagal 2 Licenzijos versij
+Questo programma e' free software; lo puoi ridistribuire e/o modificare nei termini della GNU General Public License come pubblicato dalla Free Software Foundation; sia la versione 2 della Licenza, o (a tua scelta) ogni altra versione successiva
+lum GNU General Public License leyfisins eftir Free Software Foundation; anna
+Dieses Programm ist freie Software; es kann unter den Bedingungen der GNU General Public License - wie von der Free Software Foundation ver
+blica GNU publicada pola Free Software Foundation; tanto a versi
+e par la Free Software Foundation, soit selon la version 2 de la GPL, soit (
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+rgides dokumenti GNU General Public License, mille on avaldanud Free Software Foundation; kas versiooni 2 Litsensist, v
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+Dit programma is vrije software; je mag het herdistributeren en/of wijzigen als onder de GNU General Public License, zoals gepubliceerd door the Free Software Foundation; als versie 2 van de licentie, of (naar jouw keuze) elke latere versie.
+ndre det i henhold til GNU General Public License, publiceret af Free Software Foundation, enten version 2 eller (hvis du 
+ Free Software Foundation; a to verze 2 a v
+tivanje pravila GNU General Public Licence koju izdaje  Free Software Foundation; ina
+s lliure; podeu redistribuir-lo i modificar-lo d'acord amb la GNU General Public License tal com l'ha publicada la Free Software Foundation; saia la versi
+blica Geral GNU, como publicada pela Free Software Foundation; ou pela vers
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation; either version 2 of the License, or
+Copyright (C) %s Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+#    the Free Software Foundation; version 2 dated June, 1991.
+%sCopyright (C) 1988-2014 Free Software Foundation, Inc.
+#    the Free Software Foundation, version 3 of the License.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+as published by the Free Software Foundation; either version 2,
+# Copyright (C) 1997-2018 Free Software Foundation, Inc.
+# License as published by the Free Software Foundation; either
+	print "Copyright (C) 2018 Free Software Foundation, Inc.\n";
+# as published by the Free Software Foundation.
+# as published by the Free Software Foundation.
+# as published by the Free Software Foundation; either version 2
+# Copyright (C) 2014 Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+# Copyright (C) 1992-2014  Free Software Foundation, Inc.
+# by the Free Software Foundation, either version 3 of the License, or
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+# the Free Software Foundation; either version 2 of the License, or
+Copyright (C) 2003, 2009-2012 Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+#    the Free Software Foundation; either version 2 of the License, or
+#    with this program; if not, write to the Free Software Foundation, Inc.,
+the Free Software Foundation; either version 2 of the License, or
+Copyright %s %d Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+#  the Free Software Foundation, version 3 of the License.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+#    the Free Software Foundation, version 3 of the License.
+Copyright %s %d Free Software Foundation, Inc.
+#    the Free Software Foundation, either version 3 of the License.
+Copyright %s %d Free Software Foundation, Inc.
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.
+You should have received a copy of the GNU General Public License along with this program (see the file COPYING); if not, see http://www.gnu.org/licenses/, or contact Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02111-1301  USA.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+# Copyright (C) 2011-2018 Free Software Foundation, Inc.
+# License as published by the Free Software Foundation; either
+    printf $"Copyright (C) %s Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+# the Free Software Foundation, version 3.
+# the Free Software Foundation, version 3.
+# the Free Software Foundation, version 3.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+the Free Software Foundation; either version 3 of the License, or
+Copyright (C) 2017 Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+the Free Software Foundation; either version 2 of the License, or
+# by the Free Software Foundation; either version 2 of the License, or (at
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+as published by the Free Software Foundation; either version 2,
+Copyright %s %d Free Software Foundation, Inc.
+#    the Free Software Foundation, version 3 of the License.
+Copyright (C) 2017 Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright (C) %s Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+#    the Free Software Foundation, version 3 of the License.
+# the Free Software Foundation, either version 3 of the License, or
+# the Free Software Foundation, either version 3 of the License, or
+# the Free Software Foundation, either version 3 of the License, or
+# the Free Software Foundation, either version 3 of the License, or
+# the Free Software Foundation, either version 3 of the License, or
+# the Free Software Foundation, either version 3 of the License, or
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright %s 2017 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright %s 2017 Free Software Foundation, Inc.
+Copyright %s 2017 Free Software Foundation, Inc.
+Copyright %s 2017 Free Software Foundation, Inc.
+Copyright (C) 2017 Free Software Foundation, Inc.
+Copyright %s 2014-2017 Free Software Foundation, Inc.
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+/* Copyright (C) 2014-2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright (C) 2018 Free Software Foundation, Inc.
+Copyright %s %d Free Software Foundation, Inc.
+# Copyright (C) 1998, 2002, 2006, 2007 Free Software Foundation
+# the Free Software Foundation; either version 2 of the License, or
+# Copyright (C) 1998, 2001, 2002, 2006, 2007 Free Software Foundation
+# the Free Software Foundation; either version 2 of the License, or
+# Copyright (C) 1998, 2002, 2006, 2007 Free Software Foundation
+# the Free Software Foundation; either version 2 of the License, or
+# Copyright (C) 2001, 2002, 2007 Free Software Foundation
+# the Free Software Foundation; either version 2 of the License, or
+# the Free Software Foundation, either version 3 of the License, or
+Copyright %s %d Free Software Foundation, Inc.
+demo28.sh-----------------
+demo28.sh-----------------
+demo28.sh-----------------
+demo28.sh-----------------
+directory:/home/nong/shell-tutorial/example
+demo28.sh-----------------
+
+directory:/home/nong/shell-tutorial/example
+demo28.sh-----------------
+
+directory:/home/nong/shell-tutorial/example
+demo28.sh-----------------
+directory:/home/nong/shell-tutorial/example
+demo28.sh-----------------
+/home/nong/shell-tutorial/example
+directory:/home/nong/shell-tutorial/example
+demo28.sh-----------------
+/home/nong/shell-tutorial/example
+directory:/home/nong/shell-tutorial/example
+demo28.sh-----------------
+/home/nong/shell-tutorial/example
+directory:/home/nong/shell-tutorial/example
+demo28.sh-----------------
+/home/nong/shell-tutorial/example
+directory:/home/nong/shell-tutorial/example
+demo29.sh-----------------
+
+Printing Numbers 1 through 20 (but not 3 and 11).
+1 2 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 demo29.sh-----------------
+
+Printing Numbers 1 through 20 (but not 3 and 11).
+1 2 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 demo29.sh-----------------
+
+Printing Numbers 1 through 20 (but not 3 and 11).
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 demo30.sh-----------------
+[H[J          我的简历
+          ------- 
+下面通过shell脚本输出我的简历
+
+[B]asicinfo, 基本信息
+[E]ducation, 教育经历
+[I]tskill, IT 技能
+
+demo31.sh-----------------
+
+demo32.sh-----------------
+
+demo33.sh-----------------
+This is a funky function.
+Now exiting funky function.
+
+And now the fun really begins.
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+
+demo33.sh-----------------
+This is a funky function.
+Now exiting funky function.
+
+And now the fun really begins.
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------0------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------1------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------2------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------3------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------4------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------5------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------6------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------7------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------8------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------9------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------10------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------11------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------12------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------13------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------14------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------15------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------16------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------17------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------18------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------19------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------20------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------21------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------22------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------23------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------24------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------25------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------26------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------27------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------28------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------29------------>
+
+demo33.sh-----------------
+This is a funky function.
+Now exiting funky function.
+
+And now the fun really begins.
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------0------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------1------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------2------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------3------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------4------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------5------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------6------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------7------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------8------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------9------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------10------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------11------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------12------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------13------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------14------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------15------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------16------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------17------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------18------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------19------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------20------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------21------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------22------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------23------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------24------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------25------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------26------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------27------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------28------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------29------------>
+
+demo33.sh-----------------
+This is a funky function.
+Now exiting funky function.
+
+And now the fun really begins.
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------0------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------1------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------2------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------3------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------4------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------5------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------6------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------7------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------8------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------9------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------10------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------11------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------12------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------13------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------14------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------15------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------16------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------17------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------18------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------19------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------20------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------21------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------22------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------23------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------24------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------25------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------26------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------27------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------28------------>
+
+----------FUNCTIONS---------->
+<------------ARE-------------
+<------------FUN------------>
+<------------29------------>
+
